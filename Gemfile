@@ -14,9 +14,9 @@ end
 
 
 #Use Bootstrap library for styles
-gem 'bootstrap-sass', '3.3.5'
+gem 'bootstrap-sass', '3.3.1'
 #Use Font Awesome Lib for Icons
-gem 'font-awesome-sass', '~> 4.3.0'
+gem 'font-awesome-sass', '4.3.0'
 
 
 # Use SCSS for stylesheets
