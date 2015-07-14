@@ -54,7 +54,11 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 #   # Access an IRB console on exception pages or by using <%= console %> in views
 #   gem 'web-console', '~> 2.0'
 
-#   # Spring speeds up development by keeping your application running in the background. Read more: https://github.com/rails/spring
-#   gem 'spring'
+# Spring speeds up development by keeping your application running in the background. Read more: https://github.com/rails/spring
+gem 'spring', group: :development
+
+gem 'devise', '3.4.1'
+
 # end
+
 
