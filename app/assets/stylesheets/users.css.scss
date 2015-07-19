@@ -28,6 +28,16 @@
     }
 }
 
-.user-avatar {
+.user-show-avatar {
+    border-radius: 50%;
+    height:128px;
+    width:128px;
+}
+
+.well.white-bg {
+    background-color: white;
+}
+
+.user-index-avatar {
     border-radius: 50%;
 }
